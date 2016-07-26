@@ -14,7 +14,7 @@ gem 'acts_as_votable', '~> 0.10.0'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 5.0'
 gem 'jbuilder', '~> 2.0'
-gem 'aws-sdk', '~> 2.3'
+gem 'aws-sdk', '< 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
